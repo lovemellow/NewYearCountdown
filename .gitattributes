@@ -1,2 +1,3 @@
 *.css           text
 *.class         binary
+public/*.js linguist-vendored
