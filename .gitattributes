@@ -1,3 +1,3 @@
 *.css           text
 *.class         binary
-/*js linguist-vendored
+*css linguist-vendored
